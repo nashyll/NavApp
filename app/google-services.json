@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "48615623744",
+    "firebase_url": "https://find-my-way-dac83.firebaseio.com",
+    "project_id": "find-my-way-dac83",
+    "storage_bucket": "find-my-way-dac83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48615623744:android:6c28f650d3313679fce3a5",
+        "android_client_info": {
+          "package_name": "com.sayuriai.findmyway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48615623744-6tjqnqacfu1m7c6fp4bjnfl9kov3en81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrLIzXNr62tDc8VOJfbE5KxE_gsit8wjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48615623744-6tjqnqacfu1m7c6fp4bjnfl9kov3en81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
